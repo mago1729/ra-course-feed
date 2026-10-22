@@ -1,4 +1,80 @@
 {
-  "updated": "",
-  "items": []
+  "updated": "2026-10-22",
+  "items": [
+    {
+      "id": "ipi-17193-2027",
+      "title": "Veterinary Pharmaceutical Submissions in the EU",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-05-17",
+      "end": "2027-05-18",
+      "format": "online",
+      "location": "",
+      "price": "EUR 1,819 (GBP 1,299), full price EUR 2,099; early booking offer until 22 Feb 2027",
+      "url": "https://ipi.academy/product/details/1753/veterinary-pharmaceutical-submissions-in-the-eu",
+      "why": "This is the core course on EU veterinary submissions and procedures, and booking before February gets the lower price for your regulatory affairs goal.",
+      "goal": "ra",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "ipi-17157-2027",
+      "title": "Advanced Veterinary Pharmacovigilance",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-05-10",
+      "end": "2027-05-11",
+      "format": "online",
+      "location": "",
+      "price": "EUR 1,819 (GBP 1,299), full price EUR 2,099; early booking offer until 15 Feb 2027",
+      "url": "https://ipi.academy/product/details/2235/advanced-veterinary-pharmacovigilance",
+      "why": "It covers Regulation 2019/6 and veterinary good pharmacovigilance practice and counts towards QPPV training, which builds your pharmacovigilance second competence.",
+      "goal": "pv",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "ipi-17039-2027",
+      "title": "A Practical Approach to Veterinary Vaccine Development and Registration in the EU",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-03-09",
+      "end": "2027-03-10",
+      "format": "online",
+      "location": "",
+      "price": "EUR 1,819 (GBP 1,299), full price EUR 2,099; early booking offer until 15 Dec 2026",
+      "url": "https://ipi.academy/product/details/2114/a-practical-approach-to-veterinary-vaccine-development-and-registration-in-the-eu",
+      "why": "Immunologicals are a distinct part of EU veterinary authorisation, and this spring course adds that dossier knowledge to your regulatory affairs profile.",
+      "goal": "ra",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "ipi-17141-2027",
+      "title": "A Practical Approach to Developing the CMC Package for Veterinary Pharmaceutical Products",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-05-06",
+      "end": "2027-05-06",
+      "format": "online",
+      "location": "",
+      "price": "EUR 909 (GBP 649), full price EUR 1,049; early booking offer until 11 Feb 2027",
+      "url": "https://ipi.academy/product/details/2715/a-practical-approach-to-developing-the-cmc-package-for-veterinary-pharmaceutical-products",
+      "why": "A one day, low cost course on the quality part of a veterinary dossier, which senior regulatory roles expect you to review confidently.",
+      "goal": "ra",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "vhs-hh-q25051dsn71-2026-11",
+      "title": "Deutsch C1.1 Intensivkurs",
+      "provider": "Hamburger Volkshochschule",
+      "type": "language",
+      "start": "2026-11-23",
+      "end": "2027-01-18",
+      "format": "in-person",
+      "location": "Hamburg (Barmbek), VHS-Zentrum Deutsch als Fremdsprache Nord",
+      "price": "EUR 418",
+      "url": "https://www.vhs-hamburg.de/kurs/deutsch-c1-1/404473",
+      "why": "It starts next month in Hamburg with weekday morning classes and leads towards the Goethe C1 certificate, so it is an affordable first step to C1 by summer 2027.",
+      "goal": "german",
+      "added": "2026-10-22"
+    }
+  ]
 }
