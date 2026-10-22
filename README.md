@@ -37,3 +37,38 @@ Rules the routine follows:
 - `start` and `end` are ISO dates when known, otherwise empty strings.
 - Keep `why` to one sentence, written for the reader of the app.
 - `updated` is the ISO date of the last run.
+
+## jobs.json
+
+Written daily by a second routine. Same append-only rule: items are never removed, the history is the duplicate check. The app hides items older than 45 days or past their deadline.
+
+```json
+{
+  "updated": "2026-10-23",
+  "items": [
+    {
+      "id": "boehringer-senior-ra-manager-vet-2026-10",
+      "title": "Senior Regulatory Affairs Manager, Veterinary Medicines",
+      "company": "Boehringer Ingelheim Vetmedica",
+      "location": "Ingelheim, Germany",
+      "remote": false,
+      "level": "senior",
+      "lang": "English, German",
+      "posted": "2026-10-20",
+      "deadline": "",
+      "url": "https://...",
+      "source": "company careers page",
+      "why": "Senior EU vet medicines role at a target employer, hybrid in Germany.",
+      "added": "2026-10-23"
+    }
+  ]
+}
+```
+
+Rules the routine follows:
+
+- `id` is stable: company slug, role slug and year-month. The same posting seen again on another site is the same `id`.
+- `level` is one of senior, lead, manager, specialist, head.
+- `posted` is the date on the posting when shown, otherwise an empty string. `deadline` is the application deadline when shown.
+- `url` must be the posting itself (company page or job board), verified to load.
+- `why` is one sentence written to the reader, plain words, no dashes.
