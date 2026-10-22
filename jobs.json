@@ -1,4 +1,80 @@
 {
   "updated": "2026-10-22",
-  "items": []
+  "items": [
+    {
+      "id": "pei-head-vet-medicines-authorisation-2026-10",
+      "title": "Fachgebietsleitung (m/w/d) Tierarzneimittelzulassung",
+      "company": "Paul-Ehrlich-Institut",
+      "location": "Langen (Hessen), Germany",
+      "remote": false,
+      "level": "head",
+      "lang": "German, English",
+      "posted": "2026-10-13",
+      "deadline": "",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208269069-S",
+      "source": "Bundesagentur",
+      "why": "You would lead the national team assessing immunological veterinary medicine applications, a head level role where your authority background counts, though it asks for business fluent German.",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "elanco-senior-associate-ra-cmc-biocides-2026-10",
+      "title": "Senior Associate - Regulatory CMC, Biocides/Pesticides/Topicals/Collars (m/f/d)",
+      "company": "Elanco Animal Health",
+      "location": "Monheim am Rhein or Kiel, Germany",
+      "remote": false,
+      "level": "senior",
+      "lang": "English, German",
+      "posted": "2026-08-13",
+      "deadline": "",
+      "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Monheim/Senior-Associate---Regulatory-CMC--Biocides-Pesticides-Topicals-Collars--m-f-d-_R0026490-1",
+      "source": "company careers page (also Bundesagentur)",
+      "why": "It combines veterinary medicines and biocides regulatory work at an animal health company in Germany, matching both halves of your background.",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "elanco-advisor-gra-cmc-biologicals-2026-10",
+      "title": "Advisor – Global Regulatory Affairs CMC Biologicals",
+      "company": "Elanco Animal Health",
+      "location": "Cuxhaven, Kiel or Monheim, Germany",
+      "remote": false,
+      "level": "senior",
+      "lang": "English, German",
+      "posted": "2026-07-20",
+      "deadline": "",
+      "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Cuxhaven/Advisor---Global-Regulatory-Affairs-CMC-Biologicals_R0026451-1",
+      "source": "company careers page (found via LinkedIn)",
+      "why": "A senior global regulatory role for veterinary vaccines in Germany that values deep knowledge of EU veterinary legislation.",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "ew-nutrition-product-registration-senior-specialist-2026-10",
+      "title": "Product Registration Senior Specialist (gn)",
+      "company": "EW Nutrition",
+      "location": "Visbek, Germany or fully remote",
+      "remote": true,
+      "level": "senior",
+      "lang": "English",
+      "posted": "2026-07-08",
+      "deadline": "",
+      "url": "https://ew-nutrition.jobs.personio.de/job/2703605?language=en",
+      "source": "company careers page (found via LinkedIn)",
+      "why": "Global registration of feed additives that can be done fully remote and only requires English, a direct use of your feed additive experience.",
+      "added": "2026-10-22"
+    },
+    {
+      "id": "mera-registration-ra-manager-petfood-2026-10",
+      "title": "Registration Manager / Regulatory Affairs Manager (m/w/d) Petfood",
+      "company": "Mera Tiernahrung",
+      "location": "Kevelaer, Germany (hybrid, 2 days remote)",
+      "remote": false,
+      "level": "manager",
+      "lang": "German, English",
+      "posted": "2026-10-20",
+      "deadline": "2026-11-12",
+      "url": "https://karriere.mera-petfood.com/jobs/65609346/Registration-Manager-Regulatory-Affairs-Manager-m-w-d-Petfood-Voll--oder-Teilzeit/",
+      "source": "company careers page (found via LinkedIn)",
+      "why": "A manager level animal nutrition registration role under feed and veterinary law with hybrid work, though it is petfood and a two year fixed term contract.",
+      "added": "2026-10-22"
+    }
+  ]
 }
