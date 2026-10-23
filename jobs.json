@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "items": [
     {
       "id": "pei-head-vet-medicines-authorisation-2026-10",
@@ -75,6 +75,36 @@
       "source": "company careers page (found via LinkedIn)",
       "why": "A manager level animal nutrition registration role under feed and veterinary law with hybrid work, though it is petfood and a two year fixed term contract.",
       "added": "2026-10-22"
+    },
+    {
+      "id": "ema-scientific-officer-referral-cvmp-2026-10",
+      "title": "Scientific Officer (Referral Procedure CVMP)",
+      "company": "European Medicines Agency",
+      "location": "Amsterdam, Netherlands",
+      "remote": false,
+      "level": "specialist",
+      "lang": "English, second EU language (B2)",
+      "posted": "2026-10-06",
+      "deadline": "2026-10-27",
+      "url": "https://careers.ema.europa.eu/job/EMA-Amsterdam-Scientific-Officer-%28Referral-Procedure-CVMP%29-1160/1444917133/",
+      "source": "EMA careers page",
+      "why": "You would run CVMP referrals for veterinary medicines at the EU agency, a direct step up from national authority work, but the deadline is 27 October and it means moving to Amsterdam.",
+      "added": "2026-10-23"
+    },
+    {
+      "id": "ema-amr-officer-esuavet-2026-10",
+      "title": "Antimicrobial Resistance (AMR) Officer",
+      "company": "European Medicines Agency",
+      "location": "Amsterdam, Netherlands",
+      "remote": false,
+      "level": "specialist",
+      "lang": "English, second EU language (B2)",
+      "posted": "2026-10-01",
+      "deadline": "2026-10-29",
+      "url": "https://careers.ema.europa.eu/job/EMA-Amsterdam-Antimicrobial-Resistance-%28AMR%29-Officer-1161/1443447733/",
+      "source": "EMA careers page",
+      "why": "Veterinary medicine is a named degree for this EU role on antimicrobial sales and use under the veterinary medicines regulation, though it also asks for Power BI or R skills and closes on 29 October.",
+      "added": "2026-10-23"
     }
   ]
 }
