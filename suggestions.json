@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-26",
   "items": [
     {
       "id": "ipi-17193-2027",
@@ -75,6 +75,21 @@
       "why": "It starts next month in Hamburg with weekday morning classes and leads towards the Goethe C1 certificate, so it is an affordable first step to C1 by summer 2027.",
       "goal": "german",
       "added": "2026-10-22"
+    },
+    {
+      "id": "ipi-17037-2027",
+      "title": "Introduction to Veterinary Pharmacovigilance",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-03-08",
+      "end": "2027-03-09",
+      "format": "online",
+      "location": "",
+      "price": "EUR 1,819 (GBP 1,299) early booking price, full price EUR 2,099",
+      "url": "https://ipi.academy/product/details/2211",
+      "why": "This two day course gives you the basics of veterinary pharmacovigilance in March, so you get more out of the advanced course in May and build your second competence in order.",
+      "goal": "pv",
+      "added": "2026-10-26"
     }
   ]
 }
