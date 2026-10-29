@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "items": [
     {
       "id": "pei-head-vet-medicines-authorisation-2026-10",
@@ -105,6 +105,21 @@
       "source": "EMA careers page",
       "why": "Veterinary medicine is a named degree for this EU role on antimicrobial sales and use under the veterinary medicines regulation, though it also asks for Power BI or R skills and closes on 29 October.",
       "added": "2026-10-23"
+    },
+    {
+      "id": "elanco-senior-ra-manager-eu-procedures-2026-10",
+      "title": "(Senior) Regulatory Affairs Manager, EU Procedures",
+      "company": "Elanco Animal Health",
+      "location": "Bad Homburg, Germany (also Hook UK, Antwerp, Utrecht)",
+      "remote": false,
+      "level": "senior",
+      "lang": "English",
+      "posted": "2026-10-28",
+      "deadline": "",
+      "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/UK---Hook/XMLNAME--Senior--Regulatory-Affairs-Manager--EU-Procedures_R0027667-1",
+      "source": "company careers page",
+      "why": "Hybrid senior role in Bad Homburg running EU and UK procedures for authorised veterinary medicines, a direct match for your vet RA background.",
+      "added": "2026-10-29"
     }
   ]
 }
