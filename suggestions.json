@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "items": [
     {
       "id": "ipi-17193-2027",
@@ -85,11 +85,41 @@
       "end": "2027-03-09",
       "format": "online",
       "location": "",
-      "price": "EUR 1,819 (GBP 1,299) early booking price, full price EUR 2,099",
+      "price": "EUR 1,819 (GBP 1,299), full price EUR 2,099; early booking offer until 14 Dec 2026",
       "url": "https://ipi.academy/product/details/2211",
       "why": "This two day course gives you the basics of veterinary pharmacovigilance in March, so you get more out of the advanced course in May and build your second competence in order.",
       "goal": "pv",
       "added": "2026-10-26"
+    },
+    {
+      "id": "topra-vetb0227o-2027",
+      "title": "Essentials of European Veterinary Regulatory Affairs",
+      "provider": "TOPRA",
+      "type": "course",
+      "start": "2027-03-09",
+      "end": "2027-03-09",
+      "format": "online",
+      "location": "",
+      "price": "GBP 450 or GBP 910 plus VAT depending on TOPRA membership (the page currently lists the member rate as the higher one, so check before booking)",
+      "url": "https://www.topra.org/EventDetail?EventKey=VETB0227O&Category=BASIC",
+      "why": "This one day TOPRA course gives you a structured map of EU veterinary procedures and puts you in contact with TOPRA veterinary trainers and peers, a cheap way to fill gaps and start networking before your bigger IPI courses in spring.",
+      "goal": "ra",
+      "added": "2026-11-02"
+    },
+    {
+      "id": "fleming-pv-animal-health-2027-04",
+      "title": "Pharmacovigilance for Animal Health Medicinal Products: Regulatory Frameworks and Signal Management",
+      "provider": "Fleming",
+      "type": "course",
+      "start": "2027-04-07",
+      "end": "2027-04-09",
+      "format": "online",
+      "location": "",
+      "price": "from EUR 1,296",
+      "url": "https://fleming.events/pharmacovigilance-for-animal-health-medicinal-products/",
+      "why": "Taught by veterinarians who ran pharmacovigilance at a large animal health company, it goes deep on signal management, the PSMF and inspections under Regulation 2019/6, which fits neatly between your March introduction and May advanced courses.",
+      "goal": "pv",
+      "added": "2026-11-02"
     }
   ]
 }
