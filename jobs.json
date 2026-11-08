@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "items": [
     {
       "id": "pei-head-vet-medicines-authorisation-2026-10",
@@ -135,6 +135,21 @@
       "source": "company careers page",
       "why": "A senior feed regulatory role building a new pet food regulatory function from scratch, open at four German sites and needing English only.",
       "added": "2026-11-05"
+    },
+    {
+      "id": "kerry-ra-scientific-affairs-senior-scientist-2026-11",
+      "title": "Regulatory & Scientific Affairs Senior Scientist",
+      "company": "Kerry",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "level": "senior",
+      "lang": "English",
+      "posted": "2026-11-04",
+      "deadline": "2026-12-12",
+      "url": "https://de.linkedin.com/jobs/view/regulatory-scientific-affairs-senior-scientist-at-kerry-4478789411",
+      "source": "LinkedIn",
+      "why": "Senior dossier and registration role in Leipzig that counts feed additive experience, though the portfolio leans towards food ingredients.",
+      "added": "2026-11-08"
     }
   ]
 }
