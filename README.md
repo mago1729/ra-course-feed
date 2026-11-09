@@ -33,7 +33,7 @@ Rules the routine follows:
 
 - `id` is stable and unique (provider + course code or slug + year). Items are never removed, so the history doubles as the duplicate check.
 - `type` is one of course, webinar, conference, module, exam, language.
-- `goal` is one of ra (EU vet regulatory affairs), pv (pharmacovigilance), german (German C1), network (TOPRA, events), tools (RA automation / coding).
+- `goal` is one of ra (EU vet regulatory affairs), pv (pharmacovigilance), german (German C1), network (TOPRA, events), tools (RA automation / coding), feed (feed additives, GMP+, FAMI-QS).
 - `start` and `end` are ISO dates when known, otherwise empty strings.
 - Keep `why` to one sentence, written for the reader of the app.
 - `updated` is the ISO date of the last run.

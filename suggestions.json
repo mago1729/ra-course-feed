@@ -135,6 +135,36 @@
       "why": "This evening course in central Hamburg is pure speaking practice at C1 level, two evenings a week from 18:15, so you can book a month at a time alongside work and turn your written German into fluent spoken C1.",
       "goal": "german",
       "added": "2026-11-09"
+    },
+    {
+      "id": "ipi-17089-2027",
+      "title": "Animal Feed and Feed Additive Registration in China and Thailand",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-04-15",
+      "end": "2027-04-15",
+      "format": "online",
+      "location": "",
+      "price": "EUR 490 (GBP 350), full price EUR 560; second date 21 Oct 2027 (code 17440)",
+      "url": "https://ipi.academy/product/details/2739/animal-feed-and-feed-additive-registration-in-china-and-thailand",
+      "why": "A short, low cost morning session that adds feed additive registration in two key Asian markets to your profile, useful for animal health companies that also sell feed products.",
+      "goal": "feed",
+      "added": "2026-11-09"
+    },
+    {
+      "id": "gmpplus-elearning-fc-scheme-changes-2026",
+      "title": "E-learning for companies: GMP+ FC scheme changes 2026",
+      "provider": "GMP+ International (GMP+ Academy)",
+      "type": "course",
+      "start": "",
+      "end": "",
+      "format": "online",
+      "location": "",
+      "price": "price not stated on the provider page",
+      "url": "https://www.gmpplus.org/publications/news/new-e-learning-for-companies-gmpplus-fc-scheme-changes-2026/",
+      "why": "This self paced module in German or English explains the current GMP+ feed safety requirements, a quick way to learn the scheme that most European feed businesses are certified under.",
+      "goal": "feed",
+      "added": "2026-11-09"
     }
   ]
 }
