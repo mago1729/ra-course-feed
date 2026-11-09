@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "items": [
     {
       "id": "ipi-17193-2027",
@@ -120,6 +120,21 @@
       "why": "Taught by veterinarians who ran pharmacovigilance at a large animal health company, it goes deep on signal management, the PSMF and inspections under Regulation 2019/6, which fits neatly between your March introduction and May advanced courses.",
       "goal": "pv",
       "added": "2026-11-02"
+    },
+    {
+      "id": "deutschakademie-hh-conversation-b22-c2-2027",
+      "title": "German Conversation Course, levels B2.2 to C2.2 (4 weeks, new course every month)",
+      "provider": "DeutschAkademie Hamburg",
+      "type": "language",
+      "start": "",
+      "end": "",
+      "format": "in-person",
+      "location": "Hamburg, Mönckebergstraße (city centre)",
+      "price": "from EUR 199 incl. VAT for 4 weeks (24 hours)",
+      "url": "https://www.deutschakademie.de/en/hamburg/german-conversation-course/",
+      "why": "This evening course in central Hamburg is pure speaking practice at C1 level, two evenings a week from 18:15, so you can book a month at a time alongside work and turn your written German into fluent spoken C1.",
+      "goal": "german",
+      "added": "2026-11-09"
     }
   ]
 }
