@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "items": [
     {
       "id": "ipi-17193-2027",
@@ -100,7 +100,7 @@
       "end": "2027-03-09",
       "format": "online",
       "location": "",
-      "price": "GBP 450 or GBP 910 plus VAT depending on TOPRA membership (the page currently lists the member rate as the higher one, so check before booking)",
+      "price": "GBP 450 + VAT for TOPRA members, GBP 910 + VAT for non-members",
       "url": "https://www.topra.org/EventDetail?EventKey=VETB0227O&Category=BASIC",
       "why": "This one day TOPRA course gives you a structured map of EU veterinary procedures and puts you in contact with TOPRA veterinary trainers and peers, a cheap way to fill gaps and start networking before your bigger IPI courses in spring.",
       "goal": "ra",
@@ -165,6 +165,36 @@
       "why": "This self paced module in German or English explains the current GMP+ feed safety requirements, a quick way to learn the scheme that most European feed businesses are certified under.",
       "goal": "feed",
       "added": "2026-11-09"
+    },
+    {
+      "id": "vhs-hh-r15052dsm80-2027-01",
+      "title": "Prüfungstraining Goethe-Zertifikat C1",
+      "provider": "Hamburger Volkshochschule",
+      "type": "course",
+      "start": "2027-01-25",
+      "end": "2027-02-03",
+      "format": "in-person",
+      "location": "Hamburg, VHS-Zentrum Mitte, Schanzenstraße 75",
+      "price": "EUR 119",
+      "url": "https://www.vhs-hamburg.de/kurs/prufungstraining-goethe-zertifikat-c1/403727",
+      "why": "Four morning sessions on the exact C1 exam format right after your C1.1 course ends, so you learn what the speaking and writing parts demand and can plan the rest of your road to C1 by summer.",
+      "goal": "german",
+      "added": "2026-11-16"
+    },
+    {
+      "id": "vhs-hh-goethe-c1-r15190dpm60-2027-02",
+      "title": "Goethe-Zertifikat C1 exam",
+      "provider": "Hamburger Volkshochschule (Goethe-Institut licensed exam centre)",
+      "type": "exam",
+      "start": "2027-02-05",
+      "end": "2027-02-06",
+      "format": "in-person",
+      "location": "Hamburg, VHS-Haus Lokstedt, Hugh-Greene-Weg 4",
+      "price": "EUR 335 for all four modules (modules can be booked separately)",
+      "url": "https://www.vhs-hamburg.de/kurs/deutsch-als-fremdsprache-prufung-c1/407643",
+      "why": "Taking one or two modules here in February, such as the oral one, gives you an early official checkpoint on your German well before your summer 2027 C1 target, and missed modules can be retaken later.",
+      "goal": "german",
+      "added": "2026-11-16"
     }
   ]
 }
