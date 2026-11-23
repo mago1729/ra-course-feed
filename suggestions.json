@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "items": [
     {
       "id": "ipi-17193-2027",
@@ -195,6 +195,21 @@
       "why": "Taking one or two modules here in February, such as the oral one, gives you an early official checkpoint on your German well before your summer 2027 C1 target, and missed modules can be retaken later.",
       "goal": "german",
       "added": "2026-11-16"
+    },
+    {
+      "id": "ipi-17174-2027",
+      "title": "Practical Implementation of GCP in Veterinary Field Studies",
+      "provider": "IPI Academy",
+      "type": "course",
+      "start": "2027-04-20",
+      "end": "2027-04-21",
+      "format": "online",
+      "location": "",
+      "price": "EUR 1,819 (GBP 1,299), full price EUR 2,099; early booking offer until 26 Jan 2027; second date 13 to 14 Oct 2027 (code 17660)",
+      "url": "https://ipi.academy/product/details/1630/practical-implementation-of-gcp-in-veterinary-field-studies",
+      "why": "Senior regulatory roles must judge whether the efficacy and safety studies in a dossier meet VICH good clinical practice, and this April course fills that gap between your March and May courses.",
+      "goal": "ra",
+      "added": "2026-11-23"
     }
   ]
 }
