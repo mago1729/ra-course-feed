@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
       "id": "pei-head-vet-medicines-authorisation-2026-10",
@@ -40,7 +40,7 @@
       "level": "senior",
       "lang": "English, German",
       "posted": "2026-07-20",
-      "deadline": "",
+      "deadline": "2026-11-23",
       "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/DE---Cuxhaven/Advisor---Global-Regulatory-Affairs-CMC-Biologicals_R0026451-1",
       "source": "company careers page (found via LinkedIn)",
       "why": "A senior global regulatory role for veterinary vaccines in Germany that values deep knowledge of EU veterinary legislation.",
@@ -150,6 +150,21 @@
       "source": "LinkedIn",
       "why": "Senior dossier and registration role in Leipzig that counts feed additive experience, though the portfolio leans towards food ingredients.",
       "added": "2026-11-08"
+    },
+    {
+      "id": "symrise-specialist-ra-flavor-animal-feed-petfood-2026-11",
+      "title": "Specialist Regulatory Affairs Flavor - Animal Feed / Pet Food (m/f/d)",
+      "company": "Symrise AG",
+      "location": "Holzminden, Germany",
+      "remote": true,
+      "level": "specialist",
+      "lang": "English",
+      "posted": "2026-11-23",
+      "deadline": "",
+      "url": "https://de.linkedin.com/jobs/view/specialist-regulatory-affairs-flavor-animal-feed-pet-food-m-f-d-at-symrise-ag-4493629095",
+      "source": "LinkedIn",
+      "why": "EU feed and pet food regulatory work on additives and dossiers, based in Germany with remote work possible within EMEA and only English required.",
+      "added": "2026-11-24"
     }
   ]
 }
